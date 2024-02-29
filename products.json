@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Product 1",
+      "price": 10.99,
+      "desc": "This is a Product",
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1664472289661"
+    },
+    {
+      "title": "Product 2",
+      "price": 29.99,
+      "desc": "This is a Product",
+      "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818"
+    },
+    {
+      "title": "Product 3",
+      "price": 15.99,
+      "desc": "This is a Product",
+      "img": "https://m.media-amazon.com/images/I/71XyLsP7WjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "title": "Product 4",
+    "price": 5.99,
+      "desc": "This is a Product",
+      "img": "https://www.stuff.tv/wp-content/uploads/sites/2/2023/05/imac-g3-1998.jpg?w=1080"
+    }
+  ]
+  
